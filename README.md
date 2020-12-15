@@ -1,16 +1,15 @@
-### Hi there 👋
+### Here is What I'm Working On!👋
 
-<!--
-**yash001dev/yash001dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Open Source Community
+- 🌱 I’m currently learning ... React 
+- 👯 I’m looking to collaborate on ... React JS
+- 🤔 I’m looking for help with ... AWS
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... [Linkdin](https://linkedin.com/in/yash-sanghavi-a15460139)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... In the near future knowing how to code will be as necessary as knowing how to write is today. Yes, regardless of the field or career your students decide for their future.
 -->
