@@ -1,15 +1,17 @@
-### Here is What I'm Working On!👋
 
+### Welcome to [Yash Sanghavi](https:github.com/yash001dev) Github Profile👋
 
+- Hey, I m Final Year B. Tech. Student from **Sector 28 Goverment Gandhinagar College, Gujarat**. Love to work with [**JavaScript**](https://www.javascript.com/), [**REACT**](https://reactjs.org/), [**NODE JS**](https://nodejs.org/en/), etc.
+- I am very much interested in JavaScript Development & Node JS Development.
 
-Here are some ideas to get you started:
+*******
+💬 Always Open to help! Reach Out to me: 
+<br>
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sanghavi-a15460139)
+[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash001dev)
+[![Instagram](https://img.shields.io/badge/akshatsoni64%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yash_sanghavi_001/)
 
-- 🔭 I’m currently working on ... Open Source Community
-- 🌱 I’m currently learning ... React 
-- 👯 I’m looking to collaborate on ... React JS
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkdin](https://linkedin.com/in/yash-sanghavi-a15460139)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... In the near future knowing how to code will be as necessary as knowing how to write is today. Yes, regardless of the field or career your students decide for their future.
--->
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yash001dev&show_icons=true&hide_border=true&icon_color=5CFF33">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash001dev&hide_border=true&hide=javascript,html">
+</div>
