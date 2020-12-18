@@ -1,13 +1,26 @@
+### Hi there 👋, my name is Yash Sanghavi
+#### I am Open-Source Contributor
+![I am Open-Source Contributor](https://cdn.pixabay.com/photo/2015/10/11/11/20/banner-982162_960_720.jpg)
 
-### Welcome to [Yash Sanghavi](https:github.com/yash001dev) Github Profile👋
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- Hey, I m Final Year B. Tech. Student from **Sector 28 Goverment Gandhinagar College, Gujarat**. Love to work with [**JavaScript**](https://www.javascript.com/), [**REACT**](https://reactjs.org/), [**NODE JS**](https://nodejs.org/en/), etc.
-- I am very much interested in JavaScript Development & Node JS Development.
+Skills: NODE JS / REACT / JS / FLUTTER / ANGULAR JS
 
-*******
-💬 Always Open to help! Reach Out to me: 
-<br>
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sanghavi-a15460139)
-[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash001dev)
-[![Instagram](https://img.shields.io/badge/YashSanghavi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.co/yash_sanghavi_001/)
+- 🔭 I’m currently working on REACT JS 
+- 🤔 I’m looking for help with AWS 
+- 💬 Ask me about JavaScript 
+- 📫 How to reach me: y.sanghavi001@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yash001dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yash-sanghavi-a15460139/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yash_sanghavi_001/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yash001dev)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash001dev)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash001dev&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yash001dev)  
 
