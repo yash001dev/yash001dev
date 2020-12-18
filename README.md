@@ -9,7 +9,7 @@
 <br>
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sanghavi-a15460139)
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash001dev)
-[![Instagram](https://img.shields.io/badge/YashSanghavi64%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.co/yash_sanghavi_001/)
+[![Instagram](https://img.shields.io/badge/YashSanghavi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.co/yash_sanghavi_001/)
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yash001dev&show_icons=true&hide_border=true&icon_color=5CFF33">
