@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Yash Sanghavi.
 #### I am an Open-Source Contributor.
-![I am Open-Source Contributor](https://cdn.pixabay.com/photo/2018/05/08/08/42/handshake-3382503_960_720.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
